@@ -5,7 +5,7 @@ This demomstraion extracts values from a data set and creates a dashboard with a
 #### Tools: 
 * HTML, Java Script, Json
 
-
+#### Files
 
 * Data-->>>Plotly-Challenge/Plotly Visualiztions/StarterCode/samples.json
 * HTML-->>>>Plotly-Challenge/Plotly Visualiztions/StarterCode/index.html
